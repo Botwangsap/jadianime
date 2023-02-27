@@ -5,7 +5,7 @@ var handler = async (m, {
  usedPrefix,
  command
  }) => {
-var gh = 'https://github.com/BOTCAHX'
+var gh = 'https://instagram.com/anggatzi123'
   let buttonMessage= {
 'document':{'url':gh},
 'mimetype':'application/vnd.openxmlformats-officedocument.wordprocessingml.document',
@@ -18,12 +18,12 @@ var gh = 'https://github.com/BOTCAHX'
 'mediaUrl':gh,
 'mediaType':2,
 'previewType':'pdf',
-'title':'Follow Github Gua',
-'body':'© BOTCAHX',
-'thumbnail':await(await fetch('https://telegra.ph/file/f4063ab3071f5c4af765a.png')).buffer(),
+'title':'Follow instagram Gua',
+'body':'© Lisabotz-MD😘🥰😍',
+'thumbnail':await(await fetch('https://telegra.ph/file/22ad584b0cc0eced8288b.jpg')).buffer(),
 'sourceUrl':gh}},
-'caption':'Hi, Silahkan pilih opsi di bawah ini.\n*Payment*\n\n*x* Dana: 082221792667\n*x* Pulsa: 082221792667',
-'footer':'©TioXd',
+'caption':'Hi, Silahkan pilih opsi di bawah ini.\n*Payment*\n\n*x* Dana: 081998425782\n*x* Pulsa: 083191486089',
+'footer':'© AnggaKz🗿😎',
 'buttons':[
 {'buttonId':'.menu','buttonText':{'displayText':'ᴍᴇɴᴜ'},'type':1},
 {'buttonId':'.donasi','buttonText':{'displayText':'ᴅᴏɴᴀsɪ'},'type':1}
