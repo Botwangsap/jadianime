@@ -21,12 +21,12 @@ Runtime: ${uptime}`
     },
     message: {
     orderMessage: {
-    itemCount : 2022,
+    itemCount : 2023,
     status: 1,
     surface : 1,
     message: `2022 © ${namebot}, 
-    orderTitle: `Hyzer`,
-    thumbnail: 'https://telegra.ph/file/5ecbec3e82e247671a18e.jpg', 
+    orderTitle: `AnggaKz🗿😎`,
+    thumbnail: 'https://telegra.ph/file/9a0ddee4d8647655f685b.jpg', 
     sellerJid: '0@s.whatsapp.net' 
     }
     }
