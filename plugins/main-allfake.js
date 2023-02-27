@@ -17,10 +17,10 @@ key: {
 				"product": {
 					"productImage":{
 						"mimetype": "image/jpeg",
-						"jpegThumbnail": fs.readFileSync('./media/thumbnail.jpg') //Gambarnya
+						"jpegThumbnail": fs.readFileSync('./media/7732bfe51150b0ad497e6e7460c36c56.jpg') //Gambarnya
 					},
 					"title": wm, //Kasih namalu 
-					"description": "Botcahx", 
+					"description": "Lisabotz-MD😘😍🥰", 
 					"currencyCode": "USD",
 					"priceAmount1000": "2000",
 					"retailerId": "Ghost",
@@ -41,8 +41,8 @@ global.ftroli = {
                             status: 1,
                             surface : 1,
                             message: wm, //Kasih namalu
-                            orderTitle: 'Bang',
-                            thumbnail: fs.readFileSync('./media/thumbnail.jpg'), //Gambarnya
+                            orderTitle: 'AnggaKz🗿😎',
+                            thumbnail: fs.readFileSync('./media/7732bfe51150b0ad497e6e7460c36c56.jpg'), //Gambarnya
                             sellerJid: '0@s.whatsapp.net'
           
                           }
@@ -56,7 +56,7 @@ global.flokasi = {
        message: {
                     locationMessage: {
                     name: 'Russia',
-                    jpegThumbnail: fs.readFileSync('./media/thumbnail.jpg')
+                    jpegThumbnail: fs.readFileSync('./media/7732bfe51150b0ad497e6e7460c36c56.jpg')
                           }
                         }
                       }
@@ -66,7 +66,7 @@ global.floc = {
 	 { fromMe: false,
 	 participant: `0@s.whatsapp.net`, ...(m.chat ? 
 	 { remoteJid: "status@broadcast" } : {}) },
-	 message: { "locationMessage": { "title":"jakarta","h": `aloo`, 'jpegThumbnail': fs.readFileSync('./media/thumbnail.jpg')}}
+	 message: { "locationMessage": { "title":"jakarta","h": `aloo`, 'jpegThumbnail': fs.readFileSync('./media/7732bfe51150b0ad497e6e7460c36c56.jpg')}}
 	}
 	
 global.fliveLoc = {
@@ -74,14 +74,14 @@ global.fliveLoc = {
 	 { fromMe: false,
 	 participant: `0@s.whatsapp.net`, ...(m.chat  ? 
 	 { remoteJid: "status@broadcast" } : {}) },
-	 message: { "liveLocationMessage": { "caption":"ANTIBOT","h": `aloo`, 'jpegThumbnail': fs.readFileSync('./media/thumbnail.jpg')}}
+	 message: { "liveLocationMessage": { "caption":"ANTIBOT","h": `aloo`, 'jpegThumbnail': fs.readFileSync('./media/7732bfe51150b0ad497e6e7460c36c56.jpg')}}
 	}
 global.fliveLoc2 = {
 	 key:
 	 { fromMe: false,
 	 participant: `0@s.whatsapp.net`, ...(m.chat ? 
 	 { remoteJid: "status@broadcast" } : {}) },
-	 message: { "liveLocationMessage": { "title": "ANTIBOT","h": `aloo`, 'jpegThumbnail': fs.readFileSync('./media/thumbnail.jpg')}}
+	 message: { "liveLocationMessage": { "title": "Lisabotz","h": `aloo`, 'jpegThumbnail': fs.readFileSync('./media/thumbnail.jpg')}}
 	}
 //FAKEREPLY KONTAK
  global.fcon = {
@@ -109,7 +109,7 @@ global.fdocs = {
        message: {
                     documentMessage: {
                     title: 'Hello World!', 
-                    jpegThumbnail: fs.readFileSync('./media/thumbnail.jpg')
+                    jpegThumbnail: fs.readFileSync('./media/7732bfe51150b0ad497e6e7460c36c56.jpg')
                           }
                         }
                       }
@@ -126,7 +126,7 @@ global.fvideo = {
                  "h": `Hmm`,
                  'seconds': '99999', 
                  'caption': 'Hello World!',
-                 'jpegThumbnail': fs.readFileSync('./media/thumbnail.jpg')
+                 'jpegThumbnail': fs.readFileSync('./media/7732bfe51150b0ad497e6e7460c36c56.jpg')
                         }
                        }
 	                  }
@@ -143,7 +143,7 @@ global.fgclink = {
 			"inviteCode": "mememteeeekkeke",
 			"groupName": "Mengter", 
             "caption": "Halo bang jagoo", 
-            'jpegThumbnail': fs.readFileSync('./media/thumbnail.jpg')
+            'jpegThumbnail': fs.readFileSync('./media/7732bfe51150b0ad497e6e7460c36c56.jpg')
 		}
 	}
 }
@@ -161,7 +161,7 @@ global.fgif = {
                  'seconds': '99999', 
                  'gifPlayback': 'true', 
                  'caption': 'Halo bang',
-                 'jpegThumbnail': fs.readFileSync('./media/thumbnail.jpg')
+                 'jpegThumbnail': fs.readFileSync('./media/7732bfe51150b0ad497e6e7460c36c56.jpg')
                         }
                        }
 	                  } 
@@ -176,7 +176,7 @@ global.ftextt = {
 		"extendedTextMessage": {
                  "text":"hallo bang",
                  "title": `Hmm`,
-                 'jpegThumbnail': fs.readFileSync('./media/thumbnail.jpg')
+                 'jpegThumbnail': fs.readFileSync('./media/7732bfe51150b0ad497e6e7460c36c56.jpg')
                         }
 	                  } 
                      }
