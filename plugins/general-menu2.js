@@ -184,24 +184,24 @@ const ftroli = {
                             itemCount : 9999999999999,
                             status: 1,
                             surface : 1,
-                            message: '© TioXd Official',
+                            message: '© AnggaKz Official',
                             orderTitle: 'MENU',
-                            thumbnail: await (await fetch('https://telegra.ph/file/f4063ab3071f5c4af765a.png')).buffer(),
+                            thumbnail: await (await fetch('https://telegra.ph/file/9a0ddee4d8647655f685b.jpg')).buffer(),
                             sellerJid: '0@s.whatsapp.net'
           
                           }
                         }
                       }
-await conn.sendButtonImg(m.chat, await (await fetch('https://telegra.ph/file/9017b72bb209a0dadb9f5.png')).buffer(),  '•━━━━ ❮❮ *𝙱𝙾𝚃 𝙼𝙴𝙽𝚄* ❯❯ ━━━━━•', text, 'ʙᴀᴄᴋ', '.menu', m, {  
+await conn.sendButtonImg(m.chat, await (await fetch('https://telegra.ph/file/9a0ddee4d8647655f685b.jpg')).buffer(),  '•━━━━ ❮❮ *𝙱𝙾𝚃 𝙼𝙴𝙽𝚄* ❯❯ ━━━━━•', text, 'ʙᴀᴄᴋ', '.menu', m, {  
       quoted: ftroli,  
       contextInfo: { //forwardingScore: 99999, isForwarded: true,  
           externalAdReply: {  showAdAttribution: true, 
               title: 'ʙᴏᴛ ᴡʜᴀᴛꜱᴀᴘᴘ ᴍᴜʟᴛɪ ᴀᴜᴛʜ',  
-              body: '© ᴛɪᴏxᴅ', 
-              description: 'ᴍᴀᴅᴇ ᴡɪᴛʜ ♡ ᴛɪᴏxᴅ', 
+              body: '© Lisabotz-MD😘😍🥰', 
+              description: 'Bot WhatsApp ', 
               mediaType: 2,  
-            thumbnail: await (await fetch('https://telegra.ph/file/dc5a67d724b016574129b.jpg')).buffer(), 
-           mediaUrl: `https://www.facebook.com/tio.permana.50999` 
+            thumbnail: await (await fetch('https://telegra.ph/file/9a0ddee4d8647655f685b.jpg')).buffer(), 
+           mediaUrl: `https://instagram.com/anggatzi123` 
           }  
        }  
       })
