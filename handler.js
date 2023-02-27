@@ -428,16 +428,16 @@ module.exports = {
                     if (!('antiToxic' in chat)) chat.antiToxic = false
                 } else global.db.data.chats[m.chat] = {
                     isBanned: false,
-                    welcome: true,
-                    detect: false,
+                    welcome: false,
+                    detect: true,
                     sWelcome: '',
                     sBye: '',
                     sPromote: '',
                     sDemote: '',
                     delete: true,
                     antiLink: false,
-                    viewonce: false,
-                    antiToxic: true,
+                    viewonce: true,
+                    antiToxic: false,
                 }
             } catch (e) {
                 console.error(e)
