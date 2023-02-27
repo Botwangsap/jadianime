@@ -19,7 +19,7 @@ var handler = async (m, {
     var tio = clockString(_uptime)
     var time = require('moment-timezone').tz('Asia/Jakarta').format('HH:mm:ss')
     var ar = ['list', 'menu']
-    var title = `𝑳𝒊𝒔𝒕 𝑴𝒆𝒏𝒖 𝑩𝒐𝒕\n\n│█║▌║▌║║▌║▌║█│▌`
+    var title = `𝑳𝒊𝒔𝒕 𝑴𝒆𝒏𝒖 𝑩𝒐𝒕\n\n│Silahkan join Group kami : https://chat.whatsapp.com/Ly28IB8Fel4JbPS0qCUy2p`
     var tmb = `‎ ‎`
     const sections = [ {
 	title: `Uptime: ${tio} : Time: ${time}`,
@@ -30,14 +30,14 @@ var handler = async (m, {
 	title: `Menu Utama`,
 	rows: [
 	      {title: "Perintah 2", rowId: '.pay', description: 'Gunakan  jika perintah utama error' },
-	      {title: "Donasi", rowId: '.donasi', description: 'Belikan Owner Kopi' },
+	      {title: "Donasi", rowId: '.donasi', description: 'untuk menyewabot ini' },
 	      {title: "Dashboard", rowId: '.dash', description: 'Menampilkan Dashboard' },
 	      	]
 }, {
 	title: `Menu Informasi`,
 	rows: [
 	     {title: "Website Official", rowId: '.web', description: 'Menampilkan website' },
-             {title: "Group", rowId: '.gcbot', description: 'Group Official Bot' },
+             {title: "Group", rowId: '.gcbot', description: 'Group Official LisaBot' },
          	]
 }, {
 	title: `Shortcut List`,
